@@ -1,2 +1,3 @@
 # ejemplos-java
-Repositorio de uso educativo - uso de lenguaje Java
+Repositorio de uso educativo
+Lenguaje de programación usado: Java
