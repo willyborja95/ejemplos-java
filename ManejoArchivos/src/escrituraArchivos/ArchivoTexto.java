@@ -19,7 +19,7 @@ public class ArchivoTexto {
     // permite al usuario abrir el archivo
     public void abrir_archivo() {
         try {
-            salida = new Formatter("clientes2.txt");
+            salida = new Formatter("ejemplo-archivo.txt");
         } // fin de try
         catch (SecurityException securityException) {
             System.err.println(

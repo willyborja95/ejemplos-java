@@ -1,0 +1,4 @@
+Luis;Alvarez;10;15
+Andres;Campoverde;5;18
+Camilo;Enriquez;20;20
+Emiliano;With;13;1
