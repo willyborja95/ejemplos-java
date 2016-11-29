@@ -52,7 +52,7 @@ public class ArchivoTexto {
                 System.out.println("Ingrese el apellidos de la persona");
                 String apellido = entrada.next(); // lee el apellido
 
-                // escribe el nuevo registro
+                // escribe el nuevo registro (escribe en el archivo
                 salida.format("%d|%s|%s\n", edad, nombre, apellido);
 
                 System.out.println("Desea ingresar más datos si (1), no(2)");
