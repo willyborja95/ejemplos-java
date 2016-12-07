@@ -1,0 +1,11 @@
+		Comercial Ventas y Reventas
+Nombre: Willian
+Ciudad: Loja
+------------------------------------
+PRODUCTO	  CANTIDAD	   PRECIO
+Aceite          5	    6,50
+Azucar          2	    3,00
+------------------------------------
+		Subtotal : 9,50
+		Iva 14 % : 1,33
+		Total    : 10,83		
